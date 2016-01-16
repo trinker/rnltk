@@ -17,6 +17,19 @@ are included are designed to be more intuitive wrappers or optimized for
 performance. Currently, the package calls the following packages
 maintained by me:
 
+1.  [textshape](https://github.com/trinker/textshape)
+2.  [termco](https://github.com/trinker/termco)
+3.  [parsent](https://github.com/trinker/parsent)
+4.  [entity](https://github.com/trinker/entity)
+5.  [tagger](https://github.com/trinker/tagger)
+6.  [sentimentr](https://github.com/trinker/sentimentr)
+7.  [formality](https://github.com/trinker/formality)
+8.  [readability](https://github.com/trinker/readability)
+9.  [gofastr](https://github.com/trinker/gofastr)
+10. [textreport](https://github.com/trinker/textreport)
+11. [lexr](https://github.com/trinker/lexr)
+12. [textreadr](https://github.com/textreadr)
+
 There are plans to add to this list including outside packages, focusing
 particularly on machine learning/classification packages.
 

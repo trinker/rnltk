@@ -27,7 +27,9 @@ verbadge <- sprintf('<a href="https://img.shields.io/badge/Version-%s-orange.svg
 
 **rnltk** is a natural language tool kit for R.  It is inspired by Python's [NLTK](http://www.nltk.org/) porting and extending much of Python's functionality with some R flavor.  The packages/functions that are included are designed to be more intuitive wrappers or optimized for performance.  Currently, the package calls the following packages maintained by me:
 
-`r cat(packrefs)`
+```{r, results='asis', echo=FALSE}
+cat(packrefs)
+```
 
 There are plans to add to this list including outside packages, focusing particularly on machine learning/classification packages.
 
