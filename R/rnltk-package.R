@@ -1,6 +1,6 @@
-#' What the Package Does (one line)
+#' Natural Language Tool Kit for R
 #'
-#' What the package does (one or more paragraphs)
+#' A natural language tool kit for R.
 #' @docType package
 #' @name rnltk
 #' @aliases rnltk package-rnltk

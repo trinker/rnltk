@@ -2,15 +2,15 @@ citHeader("To cite rnltk in publications, please use:")
 
 
 citEntry(entry = "manual",
-    title = "{rnltk}: A ...",
+    title = "{rnltk}: Natural Language Tool Kit for R",
     author = "Tyler W. Rinker",
     organization = "University at Buffalo/SUNY",
     address = "Buffalo, New York",
     note = "version 0.0.1",
     year = "2016",
-    url = "http://github.com/trinker/rnltk", 
+    url = "http://github.com/trinker/rnltk",
     textVersion  = paste("Rinker, T. W. (2016).",
-        "rnltk: ...",
+        "rnltk: Natural Language Tool Kit for R",
         "version 0.0.1. University at Buffalo. Buffalo, New York.",
         "http://github.com/trinker/rnltk")
 )

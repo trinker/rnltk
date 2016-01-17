@@ -29,6 +29,7 @@ maintained by me:
 10. [textreport](https://github.com/trinker/textreport)
 11. [lexr](https://github.com/trinker/lexr)
 12. [textreadr](https://github.com/textreadr)
+13. [textproj](https://github.com/trinker/textproj)
 
 There are plans to add to this list including outside packages, focusing
 particularly on machine learning/classification packages.
@@ -57,6 +58,8 @@ to install the development version:
 Contact
 =======
 
-You are welcome to:   - submit suggestions and bug-reports at: <https://github.com/trinker/rnltk/issues>   - send a pull request on: <https://github.com/trinker/rnltk/>  
+You are welcome to:   
 
+- submit suggestions and bug-reports at: <https://github.com/trinker/rnltk/issues>   
+- send a pull request on: <https://github.com/trinker/rnltk/>  
 - compose a friendly e-mail to: <tyler.rinker@gmail.com>

@@ -5,8 +5,8 @@
 \alias{package-rnltk}
 \alias{rnltk}
 \alias{rnltk-package}
-\title{What the Package Does (one line)}
+\title{Natural Language Tool Kit for R}
 \description{
-What the package does (one or more paragraphs)
+A natural language tool kit for R.
 }
 
