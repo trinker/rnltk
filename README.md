@@ -2,6 +2,9 @@ rnltk
 ============
 
 
+[![Project Status: Active - The project has reached a stable, usable
+state and is being actively
+developed.](http://www.repostatus.org/badges/0.1.0/active.svg)](http://www.repostatus.org/#active)
 [![Build
 Status](https://travis-ci.org/trinker/rnltk.svg?branch=master)](https://travis-ci.org/trinker/rnltk)
 [![Coverage
@@ -32,7 +35,10 @@ maintained by me:
 13. [textproj](https://github.com/trinker/textproj)
 
 There are plans to add to this list including outside packages, focusing
-particularly on machine learning/classification packages.
+particularly on machine learning/classification packages. Please
+[suggest packages and features](https://github.com/trinker/rnltk/issues)
+with rationale as to how/why it would be important to include the
+request in a natural language tool kit.
 
 
 Table of Contents
