@@ -20,17 +20,17 @@ are included are designed to be more intuitive wrappers or optimized for
 performance. Currently, the package calls the following packages
 maintained by me:
 
-1.  [textreadr](https://github.com/textreadr)
-2.  [entity](https://github.com/trinker/entity)
-3.  [formality](https://github.com/trinker/formality)
-4.  [gofastr](https://github.com/trinker/gofastr)
-5.  [lexr](https://github.com/trinker/lexr)
-6.  [parsent](https://github.com/trinker/parsent)
-7.  [readability](https://github.com/trinker/readability)
-8.  [sentimentr](https://github.com/trinker/sentimentr)
-9.  [tagger](https://github.com/trinker/tagger)
-10. [termco](https://github.com/trinker/termco)
-11. [textproj](https://github.com/trinker/textproj)
+1.  [entity](https://github.com/trinker/entity)
+2.  [formality](https://github.com/trinker/formality)
+3.  [gofastr](https://github.com/trinker/gofastr)
+4.  [lexr](https://github.com/trinker/lexr)
+5.  [parsent](https://github.com/trinker/parsent)
+6.  [readability](https://github.com/trinker/readability)
+7.  [sentimentr](https://github.com/trinker/sentimentr)
+8.  [tagger](https://github.com/trinker/tagger)
+9.  [termco](https://github.com/trinker/termco)
+10. [textproj](https://github.com/trinker/textproj)
+11. [textreadr](https://github.com/trinker/textreadr)
 12. [textreport](https://github.com/trinker/textreport)
 13. [textshape](https://github.com/trinker/textshape)
 
