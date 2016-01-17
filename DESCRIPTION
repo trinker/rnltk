@@ -6,7 +6,7 @@ Authors@R: c(person("Tyler", "Rinker", email =
 Maintainer: Tyler Rinker <tyler.rinker@gmail.com>
 Description: A natural language tool kit for R.
 Depends: R (>= 3.2.3)
-Imports: pacman
+Imports: pacman, qdapRegex
 Suggests: testthat
 Date: 2016-01-17
 License: GPL-2

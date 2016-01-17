@@ -40,6 +40,7 @@ particularly on machine learning/classification packages. Please
 with rationale as to how/why it would be important to include the
 request in a natural language tool kit.
 
+To see all of the available packages and functions use the `available()` function.
 
 Table of Contents
 ============

@@ -34,6 +34,8 @@ cat(packrefs)
 
 There are plans to add to this list including outside packages, focusing particularly on machine learning/classification packages.  Please [suggest packages and features](https://github.com/trinker/rnltk/issues) with rationale as to how/why it would be important to include the request in a natural language tool kit.
 
+To see all of the available packages and functions use the `available()` function.
+
 # Installation
 
 To download the development version of **rnltk**:
