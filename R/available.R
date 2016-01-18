@@ -12,3 +12,5 @@ available <- function(){
 
     setNames(lapply(packs, pacman::p_funs), packs)
 }
+
+
