@@ -13,6 +13,8 @@ install:
   - ./travis-tool.sh install_deps
   - ./travis-tool.sh github_package jimhester/covr
   - ./travis-tool.sh github_package trinker/entity
+  - ./travis-tool.sh github_package trinker/syllable
+  - ./travis-tool.sh github_package trinker/tagger
   - ./travis-tool.sh github_package trinker/formality
   - ./travis-tool.sh github_package trinker/gofastr
   - ./travis-tool.sh github_package trinker/lexr
@@ -20,7 +22,6 @@ install:
   - ./travis-tool.sh github_package trinker/qdapRegex
   - ./travis-tool.sh github_package trinker/readability
   - ./travis-tool.sh github_package trinker/sentimentr
-  - ./travis-tool.sh github_package trinker/tagger
   - ./travis-tool.sh github_package trinker/termco
   - ./travis-tool.sh github_package trinker/textproj
   - ./travis-tool.sh github_package trinker/textreadr

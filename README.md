@@ -29,12 +29,13 @@ maintained by me:
 7.  [readability](https://github.com/trinker/readability)
 8.  [sentimentr](https://github.com/trinker/sentimentr)
 9.  [stansent](https://github.com/trinker/stansent)
-10. [tagger](https://github.com/trinker/tagger)
-11. [termco](https://github.com/trinker/termco)
-12. [textproj](https://github.com/trinker/textproj)
-13. [textreadr](https://github.com/trinker/textreadr)
-14. [textreport](https://github.com/trinker/textreport)
-15. [textshape](https://github.com/trinker/textshape)
+10. [syllable](https://github.com/trinker/syllable)
+11. [tagger](https://github.com/trinker/tagger)
+12. [termco](https://github.com/trinker/termco)
+13. [textproj](https://github.com/trinker/textproj)
+14. [textreadr](https://github.com/trinker/textreadr)
+15. [textreport](https://github.com/trinker/textreport)
+16. [textshape](https://github.com/trinker/textshape)
 
 There are plans to add to this list including outside packages, focusing
 particularly on machine learning/classification packages. Please
