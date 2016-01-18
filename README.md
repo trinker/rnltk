@@ -25,14 +25,15 @@ maintained by me:
 3.  [gofastr](https://github.com/trinker/gofastr)
 4.  [lexr](https://github.com/trinker/lexr)
 5.  [parsent](https://github.com/trinker/parsent)
-6.  [readability](https://github.com/trinker/readability)
-7.  [sentimentr](https://github.com/trinker/sentimentr)
-8.  [tagger](https://github.com/trinker/tagger)
-9.  [termco](https://github.com/trinker/termco)
-10. [textproj](https://github.com/trinker/textproj)
-11. [textreadr](https://github.com/trinker/textreadr)
-12. [textreport](https://github.com/trinker/textreport)
-13. [textshape](https://github.com/trinker/textshape)
+6.  [qdapRegex](https://github.com/trinker/qdapRegex)
+7.  [readability](https://github.com/trinker/readability)
+8.  [sentimentr](https://github.com/trinker/sentimentr)
+9.  [tagger](https://github.com/trinker/tagger)
+10. [termco](https://github.com/trinker/termco)
+11. [textproj](https://github.com/trinker/textproj)
+12. [textreadr](https://github.com/trinker/textreadr)
+13. [textreport](https://github.com/trinker/textreport)
+14. [textshape](https://github.com/trinker/textshape)
 
 There are plans to add to this list including outside packages, focusing
 particularly on machine learning/classification packages. Please
@@ -40,7 +41,9 @@ particularly on machine learning/classification packages. Please
 with rationale as to how/why it would be important to include the
 request in a natural language tool kit.
 
-To see all of the available packages and functions use the `available()` function.
+To see all of the available packages and functions use the `available()`
+function.
+
 
 Table of Contents
 ============
