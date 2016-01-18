@@ -28,12 +28,13 @@ maintained by me:
 6.  [qdapRegex](https://github.com/trinker/qdapRegex)
 7.  [readability](https://github.com/trinker/readability)
 8.  [sentimentr](https://github.com/trinker/sentimentr)
-9.  [tagger](https://github.com/trinker/tagger)
-10. [termco](https://github.com/trinker/termco)
-11. [textproj](https://github.com/trinker/textproj)
-12. [textreadr](https://github.com/trinker/textreadr)
-13. [textreport](https://github.com/trinker/textreport)
-14. [textshape](https://github.com/trinker/textshape)
+9.  [stansent](https://github.com/trinker/stansent)
+10. [tagger](https://github.com/trinker/tagger)
+11. [termco](https://github.com/trinker/termco)
+12. [textproj](https://github.com/trinker/textproj)
+13. [textreadr](https://github.com/trinker/textreadr)
+14. [textreport](https://github.com/trinker/textreport)
+15. [textshape](https://github.com/trinker/textshape)
 
 There are plans to add to this list including outside packages, focusing
 particularly on machine learning/classification packages. Please

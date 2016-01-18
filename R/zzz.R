@@ -4,7 +4,7 @@
         "trinker/textshape", "trinker/termco", "trinker/parsent", "trinker/entity",
         "trinker/tagger", "trinker/sentimentr", "trinker/formality", "trinker/readability",
         "trinker/gofastr", "trinker/textreport", "trinker/lexr", "trinker/textreadr",
-        "trinker/textproj", "trinker/qdapRegex"
+        "trinker/textproj", "trinker/qdapRegex", "trinker/stansent"
     ), silent = TRUE)
 
     invisible()
