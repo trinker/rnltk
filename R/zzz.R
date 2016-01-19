@@ -26,7 +26,7 @@
                 try(pacman::p_load_gh(rinker_packs_full), silent = TRUE)
                 inst <- pacman::p_isinstalled(rinker_packs)
                 if (all(inst)){
-                    cat("\n\nLooks like missing installed correctly.\nLet the `nltk` analysis begin!\n")
+                    cat("\n\nLooks like missing packages were installed correctly.\nLet the `nltk` analysis begin!\n")
                 } else {
                     notinst <- rinker_packs[!inst]
                     cat(sprintf("\n\nMy apologies; the following `rnltk` base packages did not install:\n\n  -%s\n",
