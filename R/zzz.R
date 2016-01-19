@@ -11,6 +11,7 @@
         rinker_packs <- gsub("^[^/]+/", "", rinker_packs_full)
 
         inst <- pacman::p_isinstalled(rinker_packs)
+
         notinst <- rinker_packs[!inst]
         if (length(notinst) > 0) {
             cat(sprintf(paste0("The following `rnltk` base packages were not found:\n\n  -%s\n\n",
@@ -32,7 +33,10 @@
                     cat(sprintf("\n\nMy apologies; the following `rnltk` base packages did not install:\n\n  -%s\n",
                         paste(notinst, collapse=", ")))
                 }
+                try(pacman::p_load(char = rinker_packs[inst]), silent = TRUE)
             }
+        } else {
+            try(pacman::p_load(char = rinker_packs[inst]), silent = TRUE)
         }
     }
     invisible()
