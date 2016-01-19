@@ -46,6 +46,13 @@ request in a natural language tool kit.
 To see all of the available packages and functions use the `available()`
 function.
 
+Additionally, I plan to replicate and extend much of the [Natural
+Language Processing with Python](http://www.nltk.org/book/) book (Bird,
+Klein, & Loper, 2009) with equivalent **rnltk** code.
+
+-   Bird, S., Klein, E., & Loper, E. (2009). *Natural Language
+    Processing with Python* (1st ed.). Beijing: O'Reilly Media
+
 
 Table of Contents
 ============
