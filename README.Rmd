@@ -8,7 +8,12 @@ output:
 
 ```{r, echo=FALSE}
 packs <- suppressWarnings(readLines("R/zzz.R"))
-packs <- sort(c(na.omit(unlist(qdapRegex::ex_between(packs, '"', '"')))))
+
+rinker <- grep("^\\s+rinker_packs_full <-", packs)[1]
+blanks <- grep("^\\s*$", packs)
+packs <- eval(parse(text=packs[rinker:(blanks[blanks > rinker][1]-1)]))
+
+packs <- sort(c(na.omit(unlist(packs))))
 packrefs <- paste(paste0(
         seq_along(packs), ". [", gsub("trinker/", "", packs), "](", sprintf("https://github.com/%s", packs), ")"
     ), collapse="\n")

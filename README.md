@@ -71,7 +71,7 @@ Contact
 =======
 
 You are welcome to:   
-
 - submit suggestions and bug-reports at: <https://github.com/trinker/rnltk/issues>   
 - send a pull request on: <https://github.com/trinker/rnltk/>  
+
 - compose a friendly e-mail to: <tyler.rinker@gmail.com>
