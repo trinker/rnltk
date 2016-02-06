@@ -6,7 +6,7 @@
             "trinker/parsent", "trinker/entity", "trinker/tagger",
             "trinker/sentimentr", "trinker/formality", "trinker/readability",
             "trinker/gofastr", "trinker/textreport", "trinker/lexr", "trinker/textreadr",
-            "trinker/textproj", "trinker/qdapRegex", "trinker/stansent")
+            "trinker/textproj", "trinker/qdapRegex", "trinker/stansent", "trinker/hclustext")
 
         rinker_packs <- gsub("^[^/]+/", "", rinker_packs_full)
 
